@@ -1,4 +1,4 @@
-# 掌眼 · Zhangyan
+# 掌眼 · The Appraiser's Eye
 
 **A long-form antique-appraisal deduction game where understanding unfolds gradually from incomplete evidence.**
 
@@ -24,7 +24,7 @@ Take on three commissions, each harder than the last: a hardwood armchair, a pai
 
 ![The bowl seven investigations in: the object on the left, the evidence map in the middle, the questions and the estimate on the right](images/bowl-workbench-en.png)
 
-How can a game help players hold a long investigation in mind without turning it into a checklist of answers? Zhangyan separates the object's fixed history from the player's gradually revealed knowledge: an observation can be acquired before its relevance becomes clear, and acquiring something and knowing what it supports are separate events. Known records keep their places on the map, and the player alone decides when to stop.
+How can a game help players hold a long investigation in mind without turning it into a checklist of answers? The Appraiser's Eye separates the object's fixed history from the player's gradually revealed knowledge: an observation can be acquired before its relevance becomes clear, and acquiring something and knowing what it supports are separate events. Known records keep their places on the map, and the player alone decides when to stop.
 
 This is a desktop prototype. Its numbers are calibrated by simulation and the author's play, not yet by playtests with strangers. The cases are fictional and are not a professional appraisal reference.
 
