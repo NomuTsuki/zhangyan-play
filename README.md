@@ -4,7 +4,7 @@
 
 ### ▶ [Play in your browser](https://nomutsuki.github.io/zhangyan-play/)
 
-Desktop Edge or Chrome. The page is one self-contained file of about 35 MB, so the first load takes a moment. It opens in English; switch to Chinese with **中 / EN**. To play offline, download **Zhangyan.zip** from the [latest release](https://github.com/NomuTsuki/zhangyan-play/releases/latest), extract it and open **Zhangyan.html**.
+Desktop Edge or Chrome. The page is one self-contained file of about 12 MB, so the first load takes a moment. It opens in English; switch to Chinese with **中 / EN**. To play offline, download **Zhangyan.zip** from the [latest release](https://github.com/NomuTsuki/zhangyan-play/releases/latest), extract it and open **Zhangyan.html**.
 
 ![The level select: three commission cards showing the armchair, the bowl and the hanging scroll](images/level-select-en.png)
 
@@ -32,7 +32,7 @@ This is a desktop prototype. Its numbers are calibrated by simulation and the au
 
 **《掌眼》是一款围绕不完整证据展开、通过渐进理解推进的长线古董鉴定推理游戏。**
 
-**[在浏览器里玩](https://nomutsuki.github.io/zhangyan-play/)**：用电脑 Edge 或 Chrome 打开。页面是一个约 35 MB 的独立文件，第一次打开要等一会儿。默认英文，右上角"中 / EN"切换中文。想离线玩，到[最新发布](https://github.com/NomuTsuki/zhangyan-play/releases/latest)下载 **Zhangyan.zip**，解压后打开 **Zhangyan.html**。
+**[在浏览器里玩](https://nomutsuki.github.io/zhangyan-play/)**：用电脑 Edge 或 Chrome 打开。页面是一个约 12 MB 的独立文件，第一次打开要等一会儿。默认英文，右上角"中 / EN"切换中文。想离线玩，到[最新发布](https://github.com/NomuTsuki/zhangyan-play/releases/latest)下载 **Zhangyan.zip**，解压后打开 **Zhangyan.html**。
 
 三件委托一件比一件难：一把硬木扶手椅、一只彩绘大碗、一幅古画立轴。查看器物、选择调查，在逐渐显露的知识地图上梳理已有信息与关联，再决定何时收手，定价卖出：卖给买家（没查清的事会被压价），或者付上拍费送公开市场。结算页写出净收入、器物实际值多少，以及对这一局的评语。
 
